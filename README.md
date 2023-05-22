@@ -28,7 +28,13 @@ Still under the agents tab we will move on to creating teams which will allow us
   
   ![Annotation 2023-05-08 152050](https://github.com/JulianCrawford/os-Ticket-post-Installation/assets/130851140/95e95af6-9074-429c-b8c7-3d50ba6269dd)
   
- 
+  For the next section we will setup the department which is still under agents tab in admin panel. I created the system administrators department so overall problems will be directed to agents who will be responsible for fixing the osTicket software problems.
   
+  ![Annotation 2023-05-22 170151](https://github.com/JulianCrawford/os-Ticket-post-Installation/assets/130851140/dfe79191-5392-4a44-adca-29fbeaa8baaa)
+
+  We will need agents for multiple roles within osTicket so we will be setting up employees for theses roles and departments. In the picture below you will see that I've created agents that will help carry out tickets also I made one of the agent a system admin so they'll have access to everything needed.
+ 
+  ![Annotation 2023-05-08 151957](https://github.com/JulianCrawford/os-Ticket-post-Installation/assets/130851140/fb0fb35c-9ec9-4383-9f87-06db514521dc)
+
   
 
